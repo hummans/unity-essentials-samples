@@ -1,2 +1,2 @@
-# unity-learn-examples
+# Unity Examples
 Simple Unity examples to review and learn
