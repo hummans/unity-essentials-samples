@@ -1,0 +1,194 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1165; Version 2009; 64bit' Language: 'es' Physical Memory: 16226 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/matia/Desktop/MATIAS A. VALLEJOS/GITHUB (Git repos)/Personal/UN-unity-learn-examples/Ex4 - APIRest HTTP
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55806
+Successfully changed project path to: C:/Users/matia/Desktop/MATIAS A. VALLEJOS/GITHUB (Git repos)/Personal/UN-unity-learn-examples/Ex4 - APIRest HTTP
+C:/Users/matia/Desktop/MATIAS A. VALLEJOS/GITHUB (Git repos)/Personal/UN-unity-learn-examples/Ex4 - APIRest HTTP
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/matia/Desktop/MATIAS A. VALLEJOS/GITHUB (Git repos)/Personal/UN-unity-learn-examples/Ex4 - APIRest HTTP/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   30.0.14.7168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002465 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 26.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.025 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.792 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1381 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.4 MB.
+System memory in use after: 66.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1824.
+Total: 1.617900 ms (FindLiveObjects: 0.154000 ms CreateObjectMapping: 0.052500 ms MarkObjects: 1.352000 ms  DeleteObjects: 0.058700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(00d7d2033e5ac444f91b37e04c7ce941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(00d7d2033e5ac444f91b37e04c7ce941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d6a0c7ca62da54dd90211ce8b2ab54') in 0.007483 seconds
+  Import took 0.009671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Art
+  artifactKey: Guid(aa5633484e048cc4c941c4e9b68e8350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art using Guid(aa5633484e048cc4c941c4e9b68e8350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b01eaa89a288c1c8f490df71c8cd1d25') in 0.010281 seconds
+  Import took 0.012250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.738464 seconds.
+  path: Assets/Scenes/PokemonRandomAPIRest.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PokemonRandomAPIRest.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af5bd48ca5722e179b53ace769aa18c6') in 0.012418 seconds
+  Import took 0.014881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000862 seconds.
+  path: Assets/Scenes/PokemonRandomAPIRest.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PokemonRandomAPIRest.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af5bd48ca5722e179b53ace769aa18c6') in 0.002424 seconds
+  Import took 0.004922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.832635 seconds.
+  path: Assets/Data/Pokemon Command Factory.asset
+  artifactKey: Guid(3493132245ce3e44582e61c784b12653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/Pokemon Command Factory.asset using Guid(3493132245ce3e44582e61c784b12653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a031a1f86786649cdaed26624b8a1960') in 0.045541 seconds
+  Import took 0.048623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Data/PokemonData.asset
+  artifactKey: Guid(bf1c08ab0d840994daff1846eb822ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/PokemonData.asset using Guid(bf1c08ab0d840994daff1846eb822ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0bf94baaf366824451947f5751febb1') in 0.009435 seconds
+  Import took 0.012567 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000674 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1362 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1827.
+Total: 1.863100 ms (FindLiveObjects: 0.183000 ms CreateObjectMapping: 0.044400 ms MarkObjects: 1.614100 ms  DeleteObjects: 0.020100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.186339 seconds.
+  path: Assets/Scripts/Components/PokemonInformationDisplay.cs
+  artifactKey: Guid(187d176786c026c4b812eeadcc762507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Components/PokemonInformationDisplay.cs using Guid(187d176786c026c4b812eeadcc762507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6235a24ee3e01c1efb3a8811b9347e5') in 0.011908 seconds
+  Import took 0.014442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.092263 seconds.
+  path: Assets/Scripts/Components/PokemonRandomInput.cs
+  artifactKey: Guid(34be81c977ff52d448555ae9403497d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Components/PokemonRandomInput.cs using Guid(34be81c977ff52d448555ae9403497d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b594d75dbda096ca8eb7e84d41cde98') in 0.007637 seconds
+  Import took 0.009837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.627207 seconds.
+  path: Assets/Scripts/Components/Pokemon.cs
+  artifactKey: Guid(f8ae40a81be3bb449ab7e9f69e017f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Components/Pokemon.cs using Guid(f8ae40a81be3bb449ab7e9f69e017f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3176bff952b6c2bce9cc2f453d5fc57b') in 0.008858 seconds
+  Import took 0.011159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 253.612401 seconds.
+  path: Assets/Scripts/Components
+  artifactKey: Guid(b5e53221831c2bf4a9d2141ca5f50447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Components using Guid(b5e53221831c2bf4a9d2141ca5f50447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81145db27b04a31d04d8f9163182c3de') in 0.008973 seconds
+  Import took 0.011482 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000827 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1362 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1830.
+Total: 2.025300 ms (FindLiveObjects: 0.176300 ms CreateObjectMapping: 0.061300 ms MarkObjects: 1.763100 ms  DeleteObjects: 0.023100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
