@@ -7,15 +7,14 @@
 
   </div>
   
-  <p align="center"> <br />
-  This repository contains
-This repository contains design patterns with UniRx, SOLID principles with interfaces, and OOP. <br />
+  <p align="center">
+This repository contains design patterns with UniRx. It has projects that demonstrate specific functionalities of OOP and the SOLID principles. <br />
   </p>
 </p>
 
 ## Contenidos
 
-- [Table of Contents](#table-of-contents)
+- [Table of Contents](#contenidos)
 - [Repository](#repository)
 - [Credits](#credits)
 - [Thanks](#thanks)
