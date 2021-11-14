@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Interface Example Shopping/Scenes/ShoppingCart.unity
+    path: Assets/Scenes/SampleShoppingCart.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
